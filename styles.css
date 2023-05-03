@@ -10,3 +10,11 @@ html {
     text-align: center;
     
 }
+.author {
+    color: rgb(181, 237, 232);
+    font-family: candara;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center; 
+}
